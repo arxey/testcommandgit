@@ -1,0 +1,13 @@
+C:\Users\Arxey1\source\repos\OOO_Fishing\OOO_Fishing\bin\Debug\OOO_Fishing.exe.config
+C:\Users\Arxey1\source\repos\OOO_Fishing\OOO_Fishing\bin\Debug\OOO_Fishing.exe
+C:\Users\Arxey1\source\repos\OOO_Fishing\OOO_Fishing\bin\Debug\OOO_Fishing.pdb
+C:\Users\Arxey1\source\repos\OOO_Fishing\OOO_Fishing\obj\Debug\OOO_Fishing.csproj.AssemblyReference.cache
+C:\Users\Arxey1\source\repos\OOO_Fishing\OOO_Fishing\obj\Debug\OOO_Fishing.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arxey1\source\repos\OOO_Fishing\OOO_Fishing\obj\Debug\OOO_Fishing.Goods.resources
+C:\Users\Arxey1\source\repos\OOO_Fishing\OOO_Fishing\obj\Debug\OOO_Fishing.Properties.Resources.resources
+C:\Users\Arxey1\source\repos\OOO_Fishing\OOO_Fishing\obj\Debug\OOO_Fishing.Sign.resources
+C:\Users\Arxey1\source\repos\OOO_Fishing\OOO_Fishing\obj\Debug\OOO_Fishing.csproj.GenerateResource.cache
+C:\Users\Arxey1\source\repos\OOO_Fishing\OOO_Fishing\obj\Debug\OOO_Fishing.csproj.CoreCompileInputs.cache
+C:\Users\Arxey1\source\repos\OOO_Fishing\OOO_Fishing\obj\Debug\OOO_Fishing.exe
+C:\Users\Arxey1\source\repos\OOO_Fishing\OOO_Fishing\obj\Debug\OOO_Fishing.pdb
+C:\Users\Arxey1\source\repos\OOO_Fishing\OOO_Fishing\obj\Debug\OOO_Fishing.AddProduct.resources
